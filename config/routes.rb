@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  resources :
+  resources :articles [:]
   
   
   # get 'articles/:id/edit', to: 'articles#edit', as: :edit_article
